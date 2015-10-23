@@ -4,7 +4,7 @@
 
 ## 我什么会写这本书？
 
-2012 年的时候我因为工作原因接触了 Yii 1.0，刚开始真是无从下手，而且大部分文档是英文的，只有少数的中文资料，BoyLee 的[视频](http://blog.yiiblog.info/)让我入了门， Yii 的 QQ 群一些大牛对新手的解惑，让我慢慢感受到 Yii 的强大。从此以后「除却无上不是云」了，直到 Yii 2.0 推出。
+2012 年的时候我因为工作原因接触了 Yii 1.0，刚开始真是无从下手，而且大部分文档是英文的，只有少数的中文资料，BoyLee 的 [视频](http://blog.yiiblog.info/) 让我入了门， Yii 的 QQ 群一些大牛对新手的解惑，让我慢慢感受到 Yii 的强大。从此以后「除却无上不是云」了，直到 Yii 2.0 推出。
 
 Yii 是一个很强大的框架，而且设计的很好，它的模式非常一致，一旦你入门了，那么就会有一通百通的效果，这个过程中官方文档会一直伴随着你。
 
@@ -71,6 +71,8 @@ https://github.com/forecho/yii2-practice-code
 ## 感谢
 
 - [Yii](http://www.yiiframework.com/) 让我更热爱编程
+- [深入理解Yii2.0](http://www.digpage.com/)
+- [与《YII框架》不得不说的故事](http://www.imooc.com/space/teacher/id/1991615)
 - [《Rails 实践》](http://rails-practice.com/content) 的作者
 - [Yiier](https://github.com/yiier)
 - [Yii2-中文化](https://github.com/yii2-chinesization) 的翻译成员
