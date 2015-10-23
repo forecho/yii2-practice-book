@@ -70,4 +70,7 @@ https://github.com/forecho/yii2-practice-code
 
 ## 感谢
 
-
+- [Yii](http://www.yiiframework.com/) 让我更热爱编程
+- [《Rails 实践》](http://rails-practice.com/content) 的作者
+- [Yiier](https://github.com/yiier)
+- [Yii2-中文化](https://github.com/yii2-chinesization) 的翻译成员
