@@ -40,6 +40,8 @@ Yii 是一个很强大的框架，而且设计的很好，它的模式非常一�
 
 本书的著作权归作者蔡正海（署名： forecho）所有。
 
+除特别声明外，本书中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
+
 **你可以：**
 
 - 下载、保存以及打印本书
@@ -67,6 +69,16 @@ https://github.com/forecho/yii2-practice-code
 蔡正海，网名 forecho，2012年开始从事 Yii 开发。
 
 工作之余，维护 http://www.getyii.com/ 社区。
+
+## 通过捐款支持本书
+
+![微信支付](https://raw.githubusercontent.com/iiYii/getyii/master/wechat-pay.png)![支付宝支付](https://raw.githubusercontent.com/iiYii/getyii/master/ali-pay.png)
+
+手机微信或者支付宝扫描上方二维码可向本项目赞助，如果你觉得这个项目对你很有帮助，欢迎赞助。
+
+## 开始阅读
+
+[开始阅读](SUMMARY.md)
 
 ## 感谢
 
