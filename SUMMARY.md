@@ -29,6 +29,7 @@
     * [使用 Widget 来复用代码](README.md)
     * [使用 formatter 组件统一处理时间格式](README.md)
     * [使用 pjax 加快翻页](README.md)
+    * [善用 helper](README.md)
     * [使用事件来统一处理操作](README.md)
     * [使用行为来自动处理事件](README.md)
     * [使用第三方模块来管理配置信息](README.md)
