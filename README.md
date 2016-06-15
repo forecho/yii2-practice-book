@@ -62,7 +62,7 @@ Yii 是一个很强大的框架，而且设计的很好，它的模式非常一�
 
 ## 示例代码
 
-https://github.com/forecho/yii2-practice-code
+https://github.com/WJTeam/restful
 
 你可以 fork 这份代码到自己的代码仓库（Repo）中，修改并提交，然后向我的代码仓库提交 Pull Request，如果修改无异议，我将合并到 master 中。
 
