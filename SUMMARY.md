@@ -23,42 +23,44 @@
         * [强化搜索](book/02/2.7.md)
         * [列表统一返回每页显示数量](book/02/2.7.md)
 
-* [第三章 工作流](.md)
-    * [使用 Gii 生成代码](README.md)
-    * [使用 migrate 来管理数据库](README.md)
-    * [使用 .env 来配置项目环境变量](README.md)
-    * [使用 Widget 来复用代码](README.md)
-    * [使用 formatter 组件统一处理时间格式](README.md)
-    * [使用 pjax 加快翻页](README.md)
-    * [善用 helper](README.md)
-    * [使用事件来统一处理操作](README.md)
-    * [使用行为来自动处理事件](README.md)
-    * [使用第三方模块来管理配置信息](README.md)
-    * [使用自带组件发邮件](README.md)
-    * [使用 urlManager 美化路由](README.md)
-    * [使用 debug 调试](README.md)
-    * [使用 xdebug 断点调试](README.md)
+* [第三章 工作流]
+    * [使用 Gii 生成代码]
+    * [使用 migrate 来管理数据库]
+    * [使用 .env 来配置项目环境变量]
+    * [使用 Widget 来复用代码]
+    * [使用 formatter 组件统一处理时间格式]
+    * [使用 pjax 加快翻页]
+    * [善用 helper]
+    * [使用事件来统一处理操作]
+    * [使用行为来自动处理事件]
+    * [使用第三方模块来管理配置信息]
+    * [使用自带组件发邮件]
+    * [使用 urlManager 美化路由]
+    * [使用 debug 调试]
+    * [使用 xdebug 断点调试]
 
-* [第四章 使用 RBAC](.md)
-    * [最小权限管理](README.md)
-    * [RBAC 之权限](README.md)
-    * [RBAC 之角色](README.md)
-    * [RBAC 之给角色分配权限](README.md)
-    * [RBAC 之给用户分配角色](README.md)
-    * [RBAC 之访问控制](README.md)
+* [第四章 使用权限管理](book/04/4.0.md)
+    * [访问控制过滤（ACF）](book/04/4.1.md)
+    * [角色访问控制（RBAC）]
+    * [RBAC 之权限]
+    * [RBAC 之权限]
+    * [RBAC 之角色]
+    * [RBAC 之给角色分配权限]
+    * [RBAC 之给用户分配角色]
+    * [RBAC 之访问控制]
 
-* [第五章 使用 Console](.md)
-    * [写一个脚本命令](README.md)
-    * [写一个安装程序命令](README.md)
-    * [写一个爬虫](README.md)
+* [第五章 使用 Console]
+    * [写一个脚本命令]
+    * [写一个安装程序命令]
+    * [写一个爬虫]
 
-* [第六章 关于 Form](.md)
-    * [自带的表单验证](README.md)
-    * [Ajax 表单验证](README.md)
-    * [自定义表单验证](README.md)
-    * [使用 targetClass 验证数据是否存在](README.md)
+* [第六章 关于 Form]
+    * [自带的表单验证]
+    * [Ajax 表单验证]
+    * [自定义表单验证]
+    * [使用 targetClass 验证数据是否存在]
 
-* [第七章 资源管理](.md)
+* [第七章 资源管理]
     * [使用资源包管理资源](.md)
     * [使用 gulp 打包资源](.md)
 * [第八章 国际化](.md)
