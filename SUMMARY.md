@@ -42,12 +42,12 @@
 * [第四章 使用权限管理](book/04/4.0.md)
     * [访问控制过滤（ACF）](book/04/4.1.md)
     * [角色访问控制（RBAC）](book/04/4.2.md)
-    * [RBAC 之权限]
-    * [RBAC 之角色]
-    * [RBAC 之给角色分配权限]
-    * [RBAC 之给用户分配角色]
-    * [RBAC 之访问控制]
-    * [RBAC 之规则]
+    * [RBAC 之权限](book/04/4.3.md)
+    * [RBAC 之角色](book/04/4.4.md)
+    * [RBAC 之给角色分配权限](book/04/4.5.md)
+    * [RBAC 之给用户分配角色](book/04/4.6.md)
+    * [RBAC 之访问控制](book/04/4.7.md)
+    * [RBAC 之规则](book/04/4.8.md)
 
 * [第五章 使用 Console]
     * [写一个脚本命令]
